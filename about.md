@@ -3,7 +3,7 @@ layout: home
 permalink: /about/index.html
 ---
 
-Hi, I'm Juan (pronounced like the French Jean) and this my online attic. War-time mentality slash "I might need it again" reigns supreme. Here you'll find all my [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)-licensed bits and pieces.
+Hi, I'm Juan (pronounced like the French *Jean*) and this my online attic. War-time mentality slash "I might need it again" reigns supreme. Here you'll find all my [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)-licensed bits and pieces.
 
 A few things about me. I
 - have the mind of a child
