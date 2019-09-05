@@ -6,7 +6,9 @@ tags: [picturebook,illustration,polly]
 category: blog
 ---
 
-Over the past 8 weeks I spent some time on the Polly picture book illustrations. I've done about 14 pages, with about 18 more to go. Here is the first page:
+Over the past 8 weeks I spent some time on the Polly picture book illustrations.
+
+I've done about 14 pages, with about 18 more to go. Here is the first page:
 
 ![a page from the Polly Picture Book](/assets/posts/2019-09-04-picture-book-progress-report/polly-page.jpg)
 
